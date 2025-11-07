@@ -75,9 +75,10 @@ app.use((req, res) => {
 if (NODE_ENV !== "test") {
   // Iniciar servidor
   app.listen(PORT, () => {
-    connectDb(MONGO_URI)
-    console.log(`✅ Servidor corriendo en http://localhost:${PORT}`);
+    connectDb(MONGO_URI);
+    console.log(`✅ Servidor corriendo en puerto ${PORT}`);
   });
 }
+
 
 export default app

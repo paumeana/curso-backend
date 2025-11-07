@@ -1,0 +1,38 @@
+[
+  {
+    "id": "b2d214c9-7185-4f0f-9211-44d7f88fdddc",
+    "text": "Tengo que ir a la verdulería",
+    "completed": false,
+    "createdAt": "2025-09-24T21:42:50.410Z"
+  },
+  {
+    "id": "4c304457-e765-4521-9c14-d2dc9443ef34",
+    "text": "Grabando tarea nueva",
+    "completed": false,
+    "createdAt": "2025-10-01T20:45:13.517Z"
+  },
+  {
+    "id": "7b098988-2b56-40a4-83c1-981a7e39b0c2",
+    "text": "Agregando una tarea nueva",
+    "completed": false,
+    "createdAt": "2025-10-01T20:48:48.184Z"
+  },
+  {
+    "id": "c963794f-4e9c-414c-9e2b-0ca047c7ff93",
+    "text": "Agregando la tarea de nuevo",
+    "completed": false,
+    "createdAt": "2025-10-01T20:48:54.187Z"
+  },
+  {
+    "id": "7d1cee67-ef1d-4733-ae33-b427c0772d4a",
+    "text": "Era una tarea otra vez",
+    "completed": false,
+    "createdAt": "2025-10-01T20:50:02.206Z"
+  },
+  {
+    "id": "4dc714f3-f380-457b-b13f-0d80e5271fb9",
+    "text": "Grabando tarea otra vez",
+    "completed": false,
+    "createdAt": "2025-10-01T20:50:15.051Z"
+  }
+]
